@@ -7,8 +7,8 @@ This repository containers answer files and scripts for automatic installation
 
 # Features
 
-- [ ] Windows 10 (IoT Enterprise LTSC)
-  - [ ] Desktop Systems
+- [x] Windows 10 (IoT Enterprise LTSC)
+  - [x] Desktop Systems
     - Prompts for partitioning, and then continues automatically from there.
     - Provisions a default Administrator account with the password `password`.
 
